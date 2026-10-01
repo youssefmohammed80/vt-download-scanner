@@ -4,6 +4,8 @@ A small Python tool that watches your folders (Downloads, Desktop, or any path y
 
 > **Safe** ✔ · **Suspicious** ! · **Dangerous** ✖
 
+![Dangerous verdict example](images/dangerous.png)
+
 ---
 
 ## Features
