@@ -66,8 +66,8 @@ You can change the threshold in the `verdict()` function (`mal >= 3`).
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/youssefmohammed80/vt-download-scanner.git
+   cd vt-download-scanner
    ```
 
 2. **Install the dependencies**
